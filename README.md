@@ -5,5 +5,5 @@
 [My Repos](https://github.com/kashif-nawaz?tab=repositories)
 
 
-![](https://komarev.com/ghpvc/?username=kashif-nawaz)
+
 
